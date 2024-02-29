@@ -1,0 +1,7 @@
+ext{
+    versions = [
+        'postgres': '42.7.2',
+        'querydsl': '5.0.0',
+        'springdoc':'1.6.14'
+    ]
+}
