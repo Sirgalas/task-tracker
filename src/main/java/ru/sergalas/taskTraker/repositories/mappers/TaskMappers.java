@@ -1,7 +1,7 @@
-package ru.sergalas.taskTraker.domains.mappers;
+package ru.sergalas.taskTraker.repositories.mappers;
 
 import org.mapstruct.Mapper;
-import ru.sergalas.taskTraker.domains.dto.TaskData;
+import ru.sergalas.taskTraker.web.dto.task.TaskData;
 import ru.sergalas.taskTraker.domains.task.Task;
 
 @Mapper
